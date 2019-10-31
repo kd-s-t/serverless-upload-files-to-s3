@@ -1,0 +1,14 @@
+{
+  "name": "serverless_pracice",
+  "version": "1.0.0",
+  "description": "this is a practice on uploading images",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neek naak",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.560.0"
+  }
+}
